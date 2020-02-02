@@ -1,4 +1,4 @@
-import * as API from '../API/DK64/Imports';
+import * as API from '../API/Imports';
 
 export namespace VersionHandler {
   export function load_jp_1_0() {
