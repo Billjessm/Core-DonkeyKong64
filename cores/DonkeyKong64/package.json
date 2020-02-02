@@ -1,0 +1,11 @@
+{
+  "name": "DonkeyKong64",
+  "version": "0.1.0",
+  "description": "",
+  "main": "DonkeyKong64.js",
+  "author": "SpiceyWolf, NickPop123",
+  "credits": "",
+  "license": "GPL3",
+  "core": "DonkeyKong64",
+  "updateUrl": "https://raw.githubusercontent.com/hylian-modding/Core-DonkeyKong64/master/update.json"
+}
