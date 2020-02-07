@@ -615,7 +615,7 @@ export class DonkeyKong64 implements ICore, API.IDK64Core {
     version!: API.GameVersion;
 
     isPlaying(): boolean {
-        return this.runtime.get_game_mode() === API.GameModeType.ADVENTURE;
+        return this.runtime.game_mode === API.GameModeType.ADVENTURE;
     }
 
     preinit(): void {
